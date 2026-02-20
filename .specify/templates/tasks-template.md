@@ -51,6 +51,19 @@ description: "Task list template for feature implementation"
 - [ ] T001 Create project structure per implementation plan
 - [ ] T002 Initialize [language] project with [framework] dependencies
 - [ ] T003 [P] Configure linting and formatting tools
+- [ ] T004 [P] Setup governance and compliance tracking (if required by constitution)
+
+---
+
+## Phase 1.5: Constitution & Governance Setup
+
+**Purpose**: Establish governance controls aligned with project constitution
+
+- [ ] T005 Configure environment configuration management (Dev/UAT/Prod separation)
+- [ ] T006 [P] Setup data validation framework and logging
+- [ ] T007 [P] Implement access control/security framework if applicable
+- [ ] T008 [P] Setup audit trail logging for change tracking
+- [ ] T009 Configure approval/sign-off workflow documentation
 
 ---
 
@@ -62,12 +75,15 @@ description: "Task list template for feature implementation"
 
 Examples of foundational tasks (adjust based on your project):
 
-- [ ] T004 Setup database schema and migrations framework
-- [ ] T005 [P] Implement authentication/authorization framework
-- [ ] T006 [P] Setup API routing and middleware structure
-- [ ] T007 Create base models/entities that all stories depend on
-- [ ] T008 Configure error handling and logging infrastructure
-- [ ] T009 Setup environment configuration management
+- [ ] T010 Setup database schema and migrations framework
+- [ ] T011 [P] Implement authentication/authorization framework
+- [ ] T012 [P] Setup API routing and middleware structure
+- [ ] T013 Create base models/entities that all stories depend on
+- [ ] T014 Configure error handling and logging infrastructure
+- [ ] T015 Setup environment configuration management
+- [ ] T016 [P] Implement data validation framework (per constitution)
+- [ ] T017 [P] Setup traceability/audit logging for compliance
+- [ ] T018 Configure approval workflows and governance checkpoints
 
 **Checkpoint**: Foundation ready - user story implementation can now begin in parallel
 

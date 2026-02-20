@@ -5,6 +5,22 @@
 **Status**: Draft  
 **Input**: User description: "$ARGUMENTS"
 
+## Constitution Alignment *(mandatory)*
+
+<!--
+  CONSTITUTION CHECK: Verify this specification aligns with project principles
+  Review the project constitution at .specify/memory/constitution.md before proceeding.
+-->
+
+- [ ] **Spec-Driven Development**: This specification fully documents measures, dimensions, filters, and visuals before implementation
+- [ ] **Data Accuracy & Validation**: All metrics and KPIs have defined validation steps against source systems
+- [ ] **Governance & Security**: Access control and approval requirements are specified
+- [ ] **Reporting Standards**: Visual design and naming conventions align with corporate standards
+- [ ] **AI-Assisted Work**: If using AI tools, final artifacts require manual verification (noted in implementation plan)
+- [ ] **Documentation & Versioning**: This specification will be versioned in GitHub and tracked through all phases
+
+---
+
 ## User Scenarios & Testing *(mandatory)*
 
 <!--

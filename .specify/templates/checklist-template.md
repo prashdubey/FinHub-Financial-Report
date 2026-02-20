@@ -15,22 +15,34 @@
   - Feature requirements from spec.md
   - Technical context from plan.md
   - Implementation details from tasks.md
+  - Project constitution principles from .specify/memory/constitution.md
   
   DO NOT keep these sample items in the generated checklist file.
   ============================================================================
 -->
 
+## Constitution Compliance
+
+- [ ] CHK001 All changes verified for compliance with project constitution
+- [ ] CHK002 Spec-driven development: Specification complete and approved before implementation
+- [ ] CHK003 Environment alignment: Dev → UAT → Prod workflow validated
+- [ ] CHK004 Data accuracy: All metrics validated against source systems
+- [ ] CHK005 Governance: All approvals obtained; changes auditable
+- [ ] CHK006 Security: Access controls and data classification verified
+- [ ] CHK007 Reporting standards: Visual design adheres to corporate palette and standards
+- [ ] CHK008 Documentation: Changes documented and versioned in GitHub
+
 ## [Category 1]
 
-- [ ] CHK001 First checklist item with clear action
-- [ ] CHK002 Second checklist item
-- [ ] CHK003 Third checklist item
+- [ ] CHK009 First checklist item with clear action
+- [ ] CHK010 Second checklist item
+- [ ] CHK011 Third checklist item
 
 ## [Category 2]
 
-- [ ] CHK004 Another category item
-- [ ] CHK005 Item with specific criteria
-- [ ] CHK006 Final item in this category
+- [ ] CHK012 Another category item
+- [ ] CHK013 Item with specific criteria
+- [ ] CHK014 Final item in this category
 
 ## Notes
 

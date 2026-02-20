@@ -31,6 +31,15 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
+Verify this plan aligns with principles from `.specify/memory/constitution.md`:
+
+- [ ] **Environment Alignment**: Dev/UAT/Prod workflow defined with clear promotion criteria
+- [ ] **Data Accuracy & Validation**: Validation strategy at each environment stage is documented
+- [ ] **Governance & Security**: Approval gates and access control requirements are specified
+- [ ] **AI-Assisted Implementation**: If using AI tools, verification and validation process is described
+- [ ] **Documentation & Versioning**: This plan will be versioned and tracked across all phases
+- [ ] **Reporting Standards** (if applicable): Design adheres to corporate color palette and FD&E standards
+
 [Gates determined based on constitution file]
 
 ## Project Structure
